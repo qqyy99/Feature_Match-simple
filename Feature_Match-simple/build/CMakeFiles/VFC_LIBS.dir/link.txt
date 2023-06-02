@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVFC_LIBS.a CMakeFiles/VFC_LIBS.dir/source/vfc.cpp.o
+/usr/bin/ranlib libVFC_LIBS.a
